@@ -2,10 +2,10 @@ package org.peimari.gleaflet.heat.client;
 
 import com.google.gwt.core.client.JavaScriptObject;
 import com.google.gwt.core.client.JsArray;
-import org.peimari.gleaflet.client.ILayer;
+import org.peimari.gleaflet.client.Layer;
 import org.peimari.gleaflet.client.LatLng;
 
-public class HeatMapLayer extends JavaScriptObject implements ILayer {
+public class HeatMapLayer extends Layer {
 
 	protected HeatMapLayer() {
 	}
