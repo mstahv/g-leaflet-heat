@@ -4,7 +4,7 @@
     <!-- POM file generated with GWT webAppCreator -->
     <modelVersion>4.0.0</modelVersion>
 
-    <version>0.2</version>
+    <version>0.3-SNAPSHOT</version>
     <groupId>org.peimari</groupId>
     <artifactId>g-leaflet-heat</artifactId>
     <packaging>jar</packaging>
@@ -14,7 +14,7 @@
         <url>git://github.com/mstahv/g-leaflet-heat.git</url>
         <connection>scm:git:git://github.com/mstahv/g-leaflet-heat.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:/mstahv/g-leaflet-heat.git</developerConnection>
-      <tag>g-leaflet-heat-0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <dependencies>
