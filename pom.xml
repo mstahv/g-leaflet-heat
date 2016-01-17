@@ -153,6 +153,7 @@
                         <releaseProfiles>release</releaseProfiles>
                         <goals>install assembly:single</goals>
                     </configuration>
+                    <version>2.5.3</version>
                 </plugin>
 
                 <!--This plugin's configuration is used to store Eclipse m2e settings 
